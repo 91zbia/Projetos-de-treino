@@ -12,7 +12,7 @@ Meu site inspirado na pucca, feito pra testar umas coisas de layout e estilo.
 
 ## Site sobra a Marvel
 Outro projejo que fiz pra praticar e entender melhor o básico.  
-[ver site](https://91zbia.github.io/Projetos-de-treino/tree/site%20marvel/)
+[ver site](https://91zbia.github.io/Projetos-de-treino/site%20marvel/)
 
 
 ---
