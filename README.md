@@ -1,6 +1,6 @@
 # Meus Projetos de Treino
 
-oi! Aqui eu deixo meus projetos de treino em html, css e outras coisinhas que tô aprendendo, a ideia é só guardar o que vou fazendo e acompanhar minha evolução com o tempo.
+Oi! Aqui eu deixo meus projetos de treino em html, css e outras coisinhas que tô aprendendo, a ideia é só guardar o que vou fazendo e acompanhar minha evolução com o tempo.
 
 ---
 
